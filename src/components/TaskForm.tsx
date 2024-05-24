@@ -81,6 +81,8 @@ const TaskForm = ({
           name="difficulty"
           placeholder="Dificuldade da tarefa (1 a 5)"
           value={difficulty}
+          min="0"
+          max="5"
           onChange={handleChange}
         />
       </div>
