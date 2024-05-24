@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udemy-todo-react/static/css/main.100b0928.css",
+    "main.js": "/udemy-todo-react/static/js/main.bc924054.js",
+    "index.html": "/udemy-todo-react/index.html",
+    "main.100b0928.css.map": "/udemy-todo-react/static/css/main.100b0928.css.map",
+    "main.bc924054.js.map": "/udemy-todo-react/static/js/main.bc924054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.100b0928.css",
+    "static/js/main.bc924054.js"
+  ]
+}
