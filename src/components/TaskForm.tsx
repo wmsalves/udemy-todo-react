@@ -26,7 +26,7 @@ const TaskForm = ({
   const [difficulty, setDifficulty] = useState<number>(0);
 
   useEffect(() => {
-    if (task) {
+    if (task) { 
       setId(task.id);
       setTitle(task.title);
       setDifficulty(task.difficulty);

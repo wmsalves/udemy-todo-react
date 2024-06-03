@@ -1,7 +1,10 @@
 * {
   padding: 0;
   margin: 0;
-  font-family: Helvetica;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 350;
+  font-style: normal;
 }
 
 .hide {
