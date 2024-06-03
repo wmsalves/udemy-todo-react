@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/udemy-todo-react/static/css/main.100b0928.css",
-    "main.js": "/udemy-todo-react/static/js/main.90dbb011.js",
+    "main.css": "/udemy-todo-react/static/css/main.edada28e.css",
+    "main.js": "/udemy-todo-react/static/js/main.51c32b06.js",
     "index.html": "/udemy-todo-react/index.html",
-    "main.100b0928.css.map": "/udemy-todo-react/static/css/main.100b0928.css.map",
-    "main.90dbb011.js.map": "/udemy-todo-react/static/js/main.90dbb011.js.map"
+    "main.edada28e.css.map": "/udemy-todo-react/static/css/main.edada28e.css.map",
+    "main.51c32b06.js.map": "/udemy-todo-react/static/js/main.51c32b06.js.map"
   },
   "entrypoints": [
-    "static/css/main.100b0928.css",
-    "static/js/main.90dbb011.js"
+    "static/css/main.edada28e.css",
+    "static/js/main.51c32b06.js"
   ]
 }
